@@ -14,4 +14,4 @@ name: paypal
 moduleid: ti.paypal
 guid: 806d55c1-4ff6-4b11-951a-115af5053252
 platform: android
-minsdk: 3.1.1.GA
+minsdk: 3.2.2.GA
